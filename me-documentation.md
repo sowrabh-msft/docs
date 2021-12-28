@@ -35,14 +35,13 @@ Also see **Automatic Refresh for Adaptive Cards in search based MEs** section be
 # Just In Time Install 
 In order to support Universal Actions in search based Message extensions, your bot will be added to the conversation where the card is sent by the user. The following will be the flow for a user sending card:
 
-==**TODO: below screenshots need to be updated to show a non-Dynamics scenario**==
+**TODO: below screenshots need to be updated to show a non-Dynamics scenario**
 
-![](Media\Slide2.jpg)
+<img src="./Media/Slide2.JPG" width="750"/>
 
-![](Media\Slide3.jpg)
+<img src="./Media/Slide3.JPG" width="750"/>
 
-![](Media\Slide4.jpg)
-
+<img src="./Media/Slide4.JPG" width="750"/>
 
 # Automatic Refresh for Adaptive Cards in search based MEs        
 If you need automatic refresh. You have two options -
